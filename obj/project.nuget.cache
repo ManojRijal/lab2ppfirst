@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjYBvTYE7GQCdMt05CoxPfYNc7Ft4Q4NXdTuhB/XGInQSM6an1Dis7xaTeZgNRNnYMuYFFN5nMOzDSyVI8hG+w==",
+  "success": true,
+  "projectFilePath": "/Users/manojsmacbook/Desktop/Lab2first/Lab2first.fsproj",
+  "expectedPackageFiles": [
+    "/Users/manojsmacbook/.nuget/packages/fsharp.core/7.0.401/fsharp.core.7.0.401.nupkg.sha512"
+  ],
+  "logs": []
+}
